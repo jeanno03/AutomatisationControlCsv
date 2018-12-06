@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PivotReportClasses>
+<PivotReportClass>
+  <entite_concerne>Natixis (2)</entite_concerne>
+  <fichier_pivot>eleves-test.csv</fichier_pivot>
+  <fichier_pivot_renommee>214175</fichier_pivot_renommee>
+  <id_de_suivi>3537334</id_de_suivi>
+  <statut>A traiter</statut>
+  <uploader>phouje</uploader>
+</PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>..csv</fichier_pivot>
+    <fichier_pivot_renommee>214176</fichier_pivot_renommee>
+    <id_de_suivi>3537335</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>.test.csv</fichier_pivot>
+    <fichier_pivot_renommee>214177</fichier_pivot_renommee>
+    <id_de_suivi>3537336</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>.test.csv</fichier_pivot>
+    <fichier_pivot_renommee>214107</fichier_pivot_renommee>
+    <id_de_suivi>3537306</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>1._Actifs_de_support (1).csv</fichier_pivot>
+    <fichier_pivot_renommee>214178</fichier_pivot_renommee>
+    <id_de_suivi>3537337</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>1.abc.abc.csv</fichier_pivot>
+    <fichier_pivot_renommee>214179</fichier_pivot_renommee>
+    <id_de_suivi>3537338</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>12.mon-test.csv</fichier_pivot>
+    <fichier_pivot_renommee>214180</fichier_pivot_renommee>
+    <id_de_suivi>3537339</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>a.csv</fichier_pivot>
+    <fichier_pivot_renommee>214181</fichier_pivot_renommee>
+    <id_de_suivi>3537340</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>abc.abc.csv</fichier_pivot>
+    <fichier_pivot_renommee>214182</fichier_pivot_renommee>
+    <id_de_suivi>3537341</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>1.actif_de_support.pdf</fichier_pivot>
+    <fichier_pivot_renommee>214183</fichier_pivot_renommee>
+    <id_de_suivi>3537342</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>99.actifs_de_support.csv</fichier_pivot>
+    <fichier_pivot_renommee>214184</fichier_pivot_renommee>
+    <id_de_suivi>3537343</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+  <PivotReportClass>
+    <entite_concerne>Natixis (2)</entite_concerne>
+    <fichier_pivot>1.actifs_de_support.csv</fichier_pivot>
+    <fichier_pivot_renommee>214185</fichier_pivot_renommee>
+    <id_de_suivi>3537344</id_de_suivi>
+    <statut>A traiter</statut>
+    <uploader>phouje</uploader>
+  </PivotReportClass>
+</PivotReportClasses>
